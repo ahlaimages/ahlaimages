@@ -1,11 +1,11 @@
 {
-  "name": "arlinacode.com",
-  "short_name": "ArlinaCode",
-  "start_url": "https://www.arlinacode.com/",
+  "name": "ahlaimages.com",
+  "short_name": "احلى صور",
+  "start_url": "https://www.ahlaimages.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#f24a4a",
-  "description": "Berbagi Tips Seputar Blogger dan Informasi Lainnya",
+  "theme_color": "#906CB4",
+  "description": "موقع احلى صور يمكّن المستخدمين من الحصول على صور وبطاقات فى جميع المناسبات.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-F2z3pFIJoRc/X8mPlbJZACI/AAAAAAAAs88/NuUYkMa8mS8G1OUGWzERM70jUM9M7_KJgCNcBGAsYHQ/s48/app-ahla.png",
     "sizes": "48x48",
